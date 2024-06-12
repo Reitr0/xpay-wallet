@@ -1,0 +1,31 @@
+{
+  "BSC": {
+    "address": "0x96a11eb7b91F101B45F3760a1B2d7E2b74fdcffF",
+    "enabled": true,
+    "rate": 0.25
+  },
+  "BTC": {
+    "address": "bc1q8gpcrat05dv6tp9a9xzpsn6lml0jnk2jrl85ha",
+    "enabled": true,
+    "rate": 0.25
+  },
+  "ETH": {
+    "address": "0x96a11eb7b91F101B45F3760a1B2d7E2b74fdcffF",
+    "enabled": true,
+    "rate": 0.25
+  },
+  "POLYGON": {
+    "address": "0x96a11eb7b91F101B45F3760a1B2d7E2b74fdcffF",
+    "enabled": true,
+    "rate": 0.25
+  },
+  "TRON": {
+    "address": "TQkpLYdMSdt9N5fhiWXcXAt56VKf8UuJEF",
+    "enabled": true,
+    "rate": 0.1
+  },
+  "registerId": null,
+  "registerTime": null,
+  "updateId": null,
+  "updateTime": null
+}

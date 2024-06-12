@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@contracts/*": ["./src/contracts/*"],
+      "@modules/*": ["./src/modules/*"],
+      "@components/*": ["./src/components/*"],
+      "@persistence/*": ["./src/persistence/*"],
+      "@assets/*": ["./src/assets/*"],
+      "@screens/*": ["./src/screens/*"],
+      "@data/*": ["./src/data/*"],
+      "@src/*": ["./src/*"]
+    }
+  }
+}
